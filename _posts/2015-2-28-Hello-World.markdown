@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "My first post!"
 date:   2015-02-28 18:21:50
 ---
 ## Hello world
