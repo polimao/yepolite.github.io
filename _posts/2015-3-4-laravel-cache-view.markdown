@@ -3,12 +3,12 @@ layout: post
 title:  "Serialization of 'Closure' is not allowed"
 date:   2015-03-04 16:15:50
 ---
-<link rel="stylesheet" href="http://yandex.st/highlightjs/6.1/styles/default.min.css">
+<!-- <link rel="stylesheet" href="http://yandex.st/highlightjs/6.1/styles/default.min.css">
 <script src="http://yandex.st/highlightjs/6.1/highlight.min.js"></script>
 <script>
 hljs.tabReplace = ' ';
 hljs.initHighlightingOnLoad();
-</script>
+</script> -->
 
 ## 页面缓存报错：Serialization of 'Closure' is not allowed
 
