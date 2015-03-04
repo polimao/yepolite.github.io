@@ -11,10 +11,10 @@ hljs.initHighlightingOnLoad();
 </script>
 
 ## 页面缓存报错：Serialization of 'Closure' is not allowed
+
 	现在我要给几个页面做缓存
 	
-首先我想到的是生成静态页，判断静态页是否存在，如果存在就直接访问静态页。
-但通过对Laravel中的Caching学习以及下面这个博文的了解让我决定使用将整个模板数据缓存的方式。【[laravel使用Caching缓存数据减轻数据库查询压力](http://blog.csdn.net/xd43100678/article/details/24377531)】
+> 首先我想到的是生成静态页，判断静态页是否存在，如果存在就直接访问静态页。但通过对Laravel中的Caching学习以及下面这个博文的了解让我决定使用将整个模板数据缓存的方式。【[laravel使用Caching缓存数据减轻数据库查询压力](http://blog.csdn.net/xd43100678/article/details/24377531)】
 
 ```
 <?php
