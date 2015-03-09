@@ -2,11 +2,6 @@
 layout: page
 title: 知识归纳!
 tagline: 一个一天
-author :
-	name : Name Lastname
-	email : blah@email.test
-	github : username
-	twitter : username
 ---
 {% include JB/setup %}
 
@@ -35,4 +30,3 @@ author :
 - 自制 Sublime 片段
 - 工作任务的Markdown
 - 收藏转载
-
