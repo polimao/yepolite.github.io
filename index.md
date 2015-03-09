@@ -15,16 +15,16 @@ tagline: 一个一天
 
 ## To-Do
 
-+ String
-+ Array
-+ Json
-+ Regular
-+ file
-+ image
-+ url
-+ Session and Cookie
-+ MySql
-+ Cache
+`String`
+`Array`
+`Json`
+`Regular`
+`file`
+`image`
+`url`
+`Session and Cookie`
+`MySql`
+`Cache`
 
 ## 博文来源 与 计划
 - 自制 Sublime 片段
