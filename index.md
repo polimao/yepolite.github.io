@@ -13,6 +13,13 @@ tagline: 一个一天
 	{% endfor %}
 </ul>
 
+
+## 博文来源
+- 我的 Sublime snippet
+- 我的 工作.md
+- 收藏 转载
+- 翻译
+
 ## To-Do
 
 `String`
@@ -25,8 +32,3 @@ tagline: 一个一天
 `Session and Cookie`
 `MySql`
 `Cache`
-
-## 博文来源 与 计划
-- 自制 Sublime 片段
-- 工作任务的Markdown
-- 收藏转载
