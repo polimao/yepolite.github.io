@@ -6,8 +6,6 @@ date:   2015-03-04 16:15:50
 tagline: "Virgin"
 tags : [virgin, lodash, underscore, js, jquery]
 ---
-## Lodash 与 Underscore 浅尝辄止
-
 ### 链接
 
 * `Lodash` [http://lodash.com](https://lodash.com/docs/)
@@ -25,7 +23,7 @@ tags : [virgin, lodash, underscore, js, jquery]
 	是否包含给定键
 	_.has({a:1,b:2,c:3},"b");
 	=> true
-	
+
 ---
 
 	以白名单过滤对象
