@@ -33,3 +33,9 @@ tags : [virgin, lodash, underscore, js, jquery]
 	  return _.isNumber(value);
 	});
 	=> {age: 50}
+
+## Omnipay 多网关支付处理库
+http://omnipay.thephpleague.com/gateways/third-party/
+
+## 如何上传公钥 获得私钥
+https://cshall.alipay.com/support/help_detail.htm?help_id=477353&keyword=%CB%BD%D4%BF&sToken=s-8f955fc9a40146ef8291d82aa2985ac1&from=search&flag=2
