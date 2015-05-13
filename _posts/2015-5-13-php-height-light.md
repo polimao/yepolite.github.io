@@ -5,7 +5,7 @@ date:   2015-05-13 08:33:06
 ---
 
 
-```
+
     <?php
 
     class SalesCustomer extends \Precedent {
@@ -164,4 +164,4 @@ date:   2015-05-13 08:33:06
         }
 
     }
-```
+
