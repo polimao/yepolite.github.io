@@ -5,7 +5,7 @@ date:   2015-05-13 08:33:06
 ---
 
 
-~~~.language-php
+<div class="language-php" markdown="1">
 <?php
 
 class SalesCustomer extends \Precedent {
@@ -164,7 +164,7 @@ class SalesCustomer extends \Precedent {
     }
 
 }
-~~~
+</div>
 
 
 ---
