@@ -5,7 +5,7 @@ date:   2015-05-13 08:33:06
 ---
 
 
-```php
+```
     <?php
 
     class SalesCustomer extends \Precedent {
@@ -165,3 +165,12 @@ date:   2015-05-13 08:33:06
 
     }
 ```
+
+    /**
+     * 该销售是最低价
+     * @return boolean [description]
+     */
+    public function isLowestQuote(){
+        $this->lowest_quote = self::IS_LOWEST_QUOTE;
+        $this->save();
+    }
