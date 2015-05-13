@@ -5,7 +5,7 @@ date:   2015-05-13 08:33:06
 ---
 
 
-language-php
+```langrege-php
     <?php
 
     class SalesCustomer extends \Precedent {
@@ -164,6 +164,8 @@ language-php
         }
 
     }
+```
+
 
 ---
 
