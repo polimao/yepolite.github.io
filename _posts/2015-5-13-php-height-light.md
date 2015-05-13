@@ -3,7 +3,9 @@ layout: post
 title:  "PHP代码高亮测试"
 date:   2015-05-13 08:33:06
 ---
-```php
+
+{% highlight php %}
+
 <?php
 
 class SalesCustomer extends \Precedent {
@@ -163,4 +165,4 @@ class SalesCustomer extends \Precedent {
 
 }
 
-```
+{% endhighlight %}
